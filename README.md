@@ -20,6 +20,4 @@ pip install -r requirements.txt
 
 The project includes data preparation, causal inference, supervised learning, unsupervised learning, and synthesis of findings.
 
-## Notes
 
-The analysis is based on observational data. The results should be interpreted as evidence of gender disparity in access to top roles, not as a complete explanation of all possible causes.
