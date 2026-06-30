@@ -28,7 +28,6 @@ Which individual characteristics, including education, age, nationality, profess
 |---|---|---|
 | BoardEx Europe project data: data.csv | https://tu-dortmund.sciebo.de/s/wY5kFY6CkMk9LPr | Sciebo share link |
 
-The project data and related files are available through the Sciebo link above. Large data files are not pushed directly to GitHub.
 
 ## How to Run
 
