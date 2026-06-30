@@ -1,7 +1,5 @@
 # Gender Differences in Executive Roles based on BoardEx Europe data
 
-[![Notebook CI](https://github.com/EmmaKliushnichenko/dai-mission-group-E/actions/workflows/notebook.yml/badge.svg)](https://github.com/EmmaKliushnichenko/dai-mission-group-E/actions/workflows/notebook.yml)
-
 ## Team
 
 | Role | Name | Student ID |
