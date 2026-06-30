@@ -30,10 +30,15 @@ Which individual characteristics, including education, age, nationality, profess
 
 The project data and related files are available through the Sciebo link above. Large data files are not pushed directly to GitHub.
 
-## Reproducibility
+## How to Run
 
-To reproduce the analysis, install the required Python packages from `requirements.txt`:
+Clone the repository:
 
 ```bash
-pip install -r requirements.txt
+
+git clone https://github.com/EmmaKliushnichenko/dai-mission-group-E.git
+
+cd dai-mission-group-E
+
+
 
